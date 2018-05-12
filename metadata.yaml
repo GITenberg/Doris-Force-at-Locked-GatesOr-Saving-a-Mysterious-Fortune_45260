@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43182'
     url: http://www.gutenberg.org/2009/agents/43182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45260#Doris-Force-at-Locked-GatesOr-Saving-a-Mysterious-Fortune
 gutenberg_issued: '2014-03-29'
 gutenberg_type: Text
 identifiers:
