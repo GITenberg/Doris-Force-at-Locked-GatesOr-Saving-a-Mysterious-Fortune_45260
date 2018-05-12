@@ -1,0 +1,26 @@
+_repo: Doris-Force-at-Locked-GatesOr-Saving-a-Mysterious-Fortune_45260
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45260-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duncan, Julia K.
+    gutenberg_agent_id: '43182'
+    url: http://www.gutenberg.org/2009/agents/43182
+description: ''
+gutenberg_issued: '2014-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Fraud -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+title: Doris Force at Locked Gates; Or, Saving a Mysterious Fortune
+url: http://www.gutenberg.org/ebooks/45260
